@@ -25,6 +25,7 @@ Ein modularer Warenkorb-Prototyp mit den Design Patterns **Strategy** und **Comp
 * Vollständiges Demo-Setup
 
 → [Zur Projekt-Dokumentation](./cart-prototype/README.md)
+→ [Zur Architektur-Dokumentation](./cart-prototype/ARCHITECTURE.md)
 
 ---
 
