@@ -8,7 +8,7 @@ jspm_packages/
 
 # Package manager lock files (choose one to keep)
 # npm
-package-lock.json
+# package-lock.json
 
 # Yarn
 # yarn.lock
