@@ -1,0 +1,25 @@
+{
+  "name": "cart-prototype",
+  "version": "1.0.0",
+  "description": "Shopping cart prototype with Strategy and Composite patterns",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "dev": "ts-node src/example.ts",
+    "start": "npm run build && node dist/example.js"
+  },
+  "keywords": ["typescript", "design-patterns", "cart", "prototype"],
+  "author": "HolyG",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^18.0.0",
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "ts-node": "^10.0.0"
+  }
+}

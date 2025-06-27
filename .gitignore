@@ -1,0 +1,42 @@
+# Node.js Abhängigkeiten
+node_modules/
+
+# TypeScript Build-Ausgaben
+dist/
+build/
+out/
+lib/
+
+# TypeScript Cache-Dateien
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs und Editoren
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Betriebssystem-spezifisch
+.DS_Store
+Thumbs.db
+
+# Umgebungsvariablen
+.env
+.env.*.local
+
+# Testing
+coverage/
+*.lcov
+
+# Optional: Paket-Locks, je nach verwendetem Package Manager
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
